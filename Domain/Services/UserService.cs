@@ -20,6 +20,12 @@ public class UserService(UserRepository repository, IMapper mapper) : ICrudServi
         return mapper.Map<User>(userEntity);
     }
     
+    public async Task<User?> GetByEmailAsync(string? email)
+    {
+        var userEntity = await repository.GetByEmailAsync(email);
+        return mapper.Map<User>(userEntity);
+    }
+    
     public async Task<IEnumerable<User>?> GetAllAsync()
     {
         var userEntities = await repository.GetAllAsync();

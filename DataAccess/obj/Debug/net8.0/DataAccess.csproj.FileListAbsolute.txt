@@ -12,3 +12,4 @@ D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
