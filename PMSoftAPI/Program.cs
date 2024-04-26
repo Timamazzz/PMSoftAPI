@@ -46,6 +46,7 @@ builder.Services.AddScoped<GenreService>();
 builder.Services.AddScoped<PublisherService>();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<TokenService>();
+builder.Services.AddScoped<ImageService>();
 
 //Repositories
 builder.Services.AddScoped<AuthorRepository>();
