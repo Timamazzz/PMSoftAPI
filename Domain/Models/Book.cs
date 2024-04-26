@@ -15,4 +15,5 @@ public class Book
     public int? PublisherId { get; set; }
     public Publisher? Publisher { get; set; }
     public int Rating { get; set; }
+    public string? ImagePreview { get; set; }
 }

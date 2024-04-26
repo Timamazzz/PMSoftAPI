@@ -26,4 +26,6 @@ public class Book
     [Required]
     [Range(1, 5)]
     public int Rating { get; set; }
+
+    public string? ImagePreview { get; set; }
 }
