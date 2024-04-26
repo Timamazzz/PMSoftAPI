@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f71400d-a25d-4e2d-b9b2-c3d7b835fdb2" name="Changes" comment="" />
+    <list default="true" id="1f71400d-a25d-4e2d-b9b2-c3d7b835fdb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMSoftAPI.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PMSoftAPI.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,7 @@
     <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PMSoftAPI" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/efcore/0e8ece3526ef3575fb85de308b8a4cd5840f928e/src/EFCore/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
@@ -44,45 +47,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.PMSoftAPI: http.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #1.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #10.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #11.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #12.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #14.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #15.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #16.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #17.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #19.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #2.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #22.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #24.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #25.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #26.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #4.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #5.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #6.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #7.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.PMSoftAPI | #8.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.PMSoftAPI: http.executor": "Run",
+    "HTTP Request.PMSoftAPI | #1.executor": "Run",
+    "HTTP Request.PMSoftAPI | #10.executor": "Run",
+    "HTTP Request.PMSoftAPI | #11.executor": "Run",
+    "HTTP Request.PMSoftAPI | #12.executor": "Run",
+    "HTTP Request.PMSoftAPI | #14.executor": "Run",
+    "HTTP Request.PMSoftAPI | #15.executor": "Run",
+    "HTTP Request.PMSoftAPI | #16.executor": "Run",
+    "HTTP Request.PMSoftAPI | #17.executor": "Run",
+    "HTTP Request.PMSoftAPI | #19.executor": "Run",
+    "HTTP Request.PMSoftAPI | #2.executor": "Run",
+    "HTTP Request.PMSoftAPI | #22.executor": "Run",
+    "HTTP Request.PMSoftAPI | #24.executor": "Run",
+    "HTTP Request.PMSoftAPI | #25.executor": "Run",
+    "HTTP Request.PMSoftAPI | #26.executor": "Run",
+    "HTTP Request.PMSoftAPI | #4.executor": "Run",
+    "HTTP Request.PMSoftAPI | #5.executor": "Run",
+    "HTTP Request.PMSoftAPI | #6.executor": "Run",
+    "HTTP Request.PMSoftAPI | #7.executor": "Run",
+    "HTTP Request.PMSoftAPI | #8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\timama\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\timama\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\timama\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ],
+    "rider.external.source.directories": [
+      "C:\\Users\\timama\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\timama\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\timama\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.PMSoftAPI: http">
     <configuration name="PMSoftAPI | #19" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/PMSoftAPI/PMSoftAPI.http" index="19" requestIdentifier="#19" runType="Run single request">
       <method v="2" />
@@ -213,6 +219,7 @@
       <workItem from="1714071718849" duration="9879000" />
       <workItem from="1714130263269" duration="45000" />
       <workItem from="1714130351698" duration="83000" />
+      <workItem from="1714130499121" duration="301000" />
     </task>
     <servers />
   </component>
