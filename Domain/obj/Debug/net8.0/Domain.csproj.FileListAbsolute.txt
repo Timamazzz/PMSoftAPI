@@ -1,0 +1,15 @@
+D:\RiderProjects\PMSoftAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\RiderProjects\PMSoftAPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\RiderProjects\PMSoftAPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\RiderProjects\PMSoftAPI\Domain\bin\Debug\net8.0\DataAccess.dll
+D:\RiderProjects\PMSoftAPI\Domain\bin\Debug\net8.0\DataAccess.pdb
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\RiderProjects\PMSoftAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

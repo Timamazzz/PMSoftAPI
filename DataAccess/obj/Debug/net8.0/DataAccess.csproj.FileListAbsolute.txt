@@ -1,0 +1,14 @@
+D:\RiderProjects\PMSoftAPI\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\RiderProjects\PMSoftAPI\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\RiderProjects\PMSoftAPI\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\RiderProjects\PMSoftAPI\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\RiderProjects\PMSoftAPI\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
