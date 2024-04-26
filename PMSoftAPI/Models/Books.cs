@@ -9,6 +9,7 @@ public class BookCreate
     public int? AuthorId { get; set; }
     public int? PublisherId { get; set; }
     public int Rating { get; set; }
+    public string? ImagePreview { get; set; }
 }
 
 public class BookGet
@@ -21,6 +22,7 @@ public class BookGet
     public AuthorGet? Author { get; set; }
     public PublisherGet? Publisher { get; set; }
     public int Rating { get; set; }
+    public string? ImagePreview { get; set; }
 }
 
 public class BookUpdate
@@ -33,4 +35,5 @@ public class BookUpdate
     public int? AuthorId { get; set; }
     public int? PublisherId { get; set; }
     public int Rating { get; set; }
+    public string? ImagePreview { get; set; }
 }

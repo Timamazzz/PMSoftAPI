@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7kuxwi5GyaCvF826rN8+roxguWcvP+4Ln5arWG5Wgxj6jA+BA9DT5fkpYC1qjtc6eKhSz1YdBPmyfsesHPWK0g==",
+  "dgSpecHash": "Q9S0NZC1NaFLgqv1LuAmRagT1S7FARqeI6e/onAdUaSQvkPgynFqp1XaXcV04eJraUGKR2VU0H14j+lBP8RXSQ==",
   "success": true,
   "projectFilePath": "D:\\RiderProjects\\PMSoftAPI\\PMSoftAPI\\PMSoftAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timama\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\timama\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512",
     "C:\\Users\\timama\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\timama\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.4\\microsoft.aspnetcore.authentication.jwtbearer.8.0.4.nupkg.sha512",
     "C:\\Users\\timama\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
@@ -62,5 +63,16 @@
     "C:\\Users\\timama\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\timama\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt.Net 0.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt.Net",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

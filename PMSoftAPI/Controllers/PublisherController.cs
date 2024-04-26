@@ -1,11 +1,13 @@
 using AutoMapper;
 using Domain.Models;
 using Domain.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PMSoftAPI.Models;
 
 namespace PMSoftAPI.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("publishers")]
 public class PublisherController(PublisherService publisherService, IMapper mapper) : ControllerBase

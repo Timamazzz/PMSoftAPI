@@ -116,3 +116,5 @@ D:\RiderProjects\PMSoftAPI\PMSoftAPI\obj\Debug\net8.0\refint\PMSoftAPI.dll
 D:\RiderProjects\PMSoftAPI\PMSoftAPI\obj\Debug\net8.0\PMSoftAPI.pdb
 D:\RiderProjects\PMSoftAPI\PMSoftAPI\obj\Debug\net8.0\PMSoftAPI.genruntimeconfig.cache
 D:\RiderProjects\PMSoftAPI\PMSoftAPI\obj\Debug\net8.0\ref\PMSoftAPI.dll
+D:\RiderProjects\PMSoftAPI\PMSoftAPI\obj\Debug\net8.0\PMSoftAPI.sourcelink.json
+D:\RiderProjects\PMSoftAPI\PMSoftAPI\bin\Debug\net8.0\BCrypt.Net.dll

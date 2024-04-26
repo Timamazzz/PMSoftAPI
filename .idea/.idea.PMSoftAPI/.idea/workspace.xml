@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f71400d-a25d-4e2d-b9b2-c3d7b835fdb2" name="Changes" comment="JWT" />
+    <list default="true" id="1f71400d-a25d-4e2d-b9b2-c3d7b835fdb2" name="Changes" comment="add ImagePreview">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PMSoftAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PMSoftAPI/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/efcore/0e8ece3526ef3575fb85de308b8a4cd5840f928e/src/EFCore/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/efcore/0e8ece3526ef3575fb85de308b8a4cd5840f928e/src/EFCore/DbSet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/RiderProjects/PMSoftAPI/DataAccess/Models/Book.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="HttpClientSelectedEnvironments">
     <file url="file://$USER_HOME$/AppData/Local/Temp/whats-new-dir/whats-new.http" environment="test" />
@@ -229,7 +232,7 @@
       <workItem from="1714071718849" duration="9879000" />
       <workItem from="1714130263269" duration="45000" />
       <workItem from="1714130351698" duration="83000" />
-      <workItem from="1714130499121" duration="7457000" />
+      <workItem from="1714130499121" duration="8125000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <option name="closed" value="true" />
@@ -247,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714138487096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add ImagePreview">
+      <option name="closed" value="true" />
+      <created>1714138628199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714138628199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +293,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="2" />
     <MESSAGE value="JWT" />
-    <option name="LAST_COMMIT_MESSAGE" value="JWT" />
+    <MESSAGE value="add ImagePreview" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ImagePreview" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

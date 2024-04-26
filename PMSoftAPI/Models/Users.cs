@@ -6,7 +6,7 @@ namespace PMSoftAPI.Models;
     {
         public string Name { get; set; }
         public string Email { get; set; }
-        public string PasswordHash { get; set; }
+        public string Password { get; set; }
         public UserRole? Role { get; set; } = UserRole.User;
     }
 
@@ -16,4 +16,10 @@ namespace PMSoftAPI.Models;
         public string Name { get; set; }
         public string Email { get; set; }
         public string? Role { get; set; }
+    }
+
+    public class UserLogin
+    {
+        public string Email { get; set; } = null!;
+        public string Password { get; set; } = null!;
     }
