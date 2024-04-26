@@ -3,9 +3,29 @@ using DataAccess;
 using DataAccess.Repositories;
 using Domain.AutoMapper;
 using Domain.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 using PMSoftAPI.AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddCors();
+
+// builder.Services.AddAuthorization();
+// builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+//     .AddJwtBearer(options =>
+//     {
+//         options.TokenValidationParameters = new TokenValidationParameters
+//         {
+//             ValidateIssuer = true,
+//             ValidIssuer = AuthOptions.ISSUER,
+//             ValidateAudience = true,
+//             ValidAudience = AuthOptions.AUDIENCE,
+//             ValidateLifetime = true,
+//             IssuerSigningKey = AuthOptions.GetSymmetricSecurityKey(),
+//             ValidateIssuerSigningKey = true,
+//         };
+//     });
 
 var connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -34,6 +54,15 @@ builder.Services.AddScoped<UserRepository>();
 
 // Add services to the container.
 builder.Services.AddControllers();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocalhost",
+        corsPolicyBuilder => corsPolicyBuilder
+            .AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod());
+});
 
 //Swagger
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
